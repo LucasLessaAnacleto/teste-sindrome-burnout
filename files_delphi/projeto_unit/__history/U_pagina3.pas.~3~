@@ -1,0 +1,73 @@
+unit U_pagina3;
+
+interface
+
+uses
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.Imaging.pngimage, Vcl.ExtCtrls,
+  Vcl.StdCtrls;
+
+type
+  Tfrm_pagina3 = class(TForm)
+    background: TImage;
+    continuar: TImage;
+    Cb3: TComboBox;
+    cb2: TComboBox;
+    Cb1: TComboBox;
+    procedure Cb3Change(Sender: TObject);
+    procedure cb2Change(Sender: TObject);
+    procedure Cb1Change(Sender: TObject);
+    procedure FormActivate(Sender: TObject);
+    procedure continuarClick(Sender: TObject);
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  frm_pagina3: Tfrm_pagina3;
+
+implementation
+
+{$R *.dfm}
+
+uses U_pagina4;
+
+procedure Tfrm_pagina3.Cb1Change(Sender: TObject);
+begin
+ if (cb1.ItemIndex >= 0)and(cb2.ItemIndex >= 0)and(cb3.ItemIndex >= 0) then
+ begin
+   continuar.Show;
+ end;
+end;
+
+procedure Tfrm_pagina3.cb2Change(Sender: TObject);
+begin
+ if (cb1.ItemIndex >= 0)and(cb2.ItemIndex >= 0)and(cb3.ItemIndex >= 0) then
+ begin
+   continuar.Show;
+ end;
+end;
+
+procedure Tfrm_pagina3.Cb3Change(Sender: TObject);
+begin
+ if (cb1.ItemIndex >= 0)and(cb2.ItemIndex >= 0)and(cb3.ItemIndex >= 0) then
+ begin
+   continuar.Show;
+ end;
+end;
+
+procedure Tfrm_pagina3.continuarClick(Sender: TObject);
+begin
+ application.CreateForm(Tfrm_pagina4,Frm_pagina4);
+ frm_pagina4.ShowModal;
+ close;
+end;
+
+procedure Tfrm_pagina3.FormActivate(Sender: TObject);
+begin
+ continuar.Enabled:=false;
+end;
+
+end.

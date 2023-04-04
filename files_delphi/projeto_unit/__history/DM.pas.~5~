@@ -1,0 +1,45 @@
+unit DM;
+
+interface
+
+uses
+  System.SysUtils, System.Classes;
+
+type
+  TDM1 = class(TDataModule)
+  private
+    { Private declarations }
+  public
+    function  filtroLetras(frase: String): String;
+    { Public declarations }
+  end;
+
+var
+  DM1: TDM1;
+  nome:String;
+  pag,teste: integer;
+
+
+implementation
+
+{%CLASSGROUP 'Vcl.Controls.TControl'}
+
+{$R *.dfm}
+
+ function filtroLetras(frase: String): String;
+ var
+ i: integer;
+ newStr: String;
+ begin
+  newStr:='';
+  for i := 1 to length(frase) do
+  begin
+   if (frase[i]) in ['A'..'Z','a'..'z'] then
+   begin
+     newStr:=newStr+ uppercase(frase[i]);
+   end;
+  end;
+  result:=newStr;
+end;
+
+end.

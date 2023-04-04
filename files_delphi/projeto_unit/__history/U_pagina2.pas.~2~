@@ -1,0 +1,63 @@
+unit U_pagina2;
+
+interface
+
+uses
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.StdCtrls, Vcl.Imaging.pngimage,
+  Vcl.ExtCtrls;
+
+type
+  Tfrm_pagina2 = class(TForm)
+    background: TImage;
+    Cb1: TComboBox;
+    cb2: TComboBox;
+    Cb3: TComboBox;
+    continuar: TImage;
+    procedure FormActivate(Sender: TObject);
+    procedure Cb1Change(Sender: TObject);
+    procedure cb2Change(Sender: TObject);
+    procedure Cb3Change(Sender: TObject);
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  frm_pagina2: Tfrm_pagina2;
+
+implementation
+
+{$R *.dfm}
+
+procedure Tfrm_pagina2.Cb1Change(Sender: TObject);
+begin
+ if (cb1.ItemIndex >= 0)and(cb2.ItemIndex >= 0)and(cb3.ItemIndex >= 0) then
+ begin
+   continuar.Show;
+ end;
+end;
+
+procedure Tfrm_pagina2.cb2Change(Sender: TObject);
+begin
+ if (cb1.ItemIndex >= 0)and(cb2.ItemIndex >= 0)and(cb3.ItemIndex >= 0) then
+ begin
+   continuar.Show;
+ end;
+end;
+
+procedure Tfrm_pagina2.Cb3Change(Sender: TObject);
+begin
+ if (cb1.ItemIndex >= 0)and(cb2.ItemIndex >= 0)and(cb3.ItemIndex >= 0) then
+ begin
+   continuar.Show;
+ end;
+end;
+
+procedure Tfrm_pagina2.FormActivate(Sender: TObject);
+begin
+ continuar.Enabled:=false;
+end;
+
+end.

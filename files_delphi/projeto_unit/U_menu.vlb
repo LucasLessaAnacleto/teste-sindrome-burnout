@@ -1,0 +1,13 @@
+﻿[btn_next]
+Coordinates=179,10,64,58
+
+[background]
+Coordinates=10,10,82,58
+
+[txt_nome]
+Coordinates=102,10,67,58
+
+[]
+Coordinates=10,78,100,36
+Visible=True
+

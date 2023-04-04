@@ -1,0 +1,25 @@
+unit U_pagina3;
+
+interface
+
+uses
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.Imaging.pngimage, Vcl.ExtCtrls;
+
+type
+  Tfrm_pagina3 = class(TForm)
+    background: TImage;
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  frm_pagina3: Tfrm_pagina3;
+
+implementation
+
+{$R *.dfm}
+
+end.

@@ -1,6 +1,8 @@
 object frm_intro: Tfrm_intro
   Left = 0
   Top = 0
+  BorderIcons = [biSystemMenu, biMinimize]
+  BorderStyle = bsSingle
   Caption = 'Carregamento...'
   ClientHeight = 800
   ClientWidth = 800
@@ -12,6 +14,7 @@ object frm_intro: Tfrm_intro
   Font.Style = [fsBold]
   OldCreateOrder = False
   Position = poDesktopCenter
+  OnActivate = FormActivate
   PixelsPerInch = 96
   TextHeight = 23
   object image1: TImage
@@ -1810,5 +1813,46 @@ object frm_intro: Tfrm_intro
       7CBE506A857422A25CC20021222232A8783C81E6E600A424DFEA892877304088
       88880C4ABDFD2AE00F21188CE9BD2B44441FFBFFB5D54FC35F461D6300000000
       49454E44AE426082}
+  end
+  object Label1: TLabel
+    Left = 368
+    Top = 776
+    Width = 42
+    Height = 16
+    Caption = 'Label1'
+    Color = clBlack
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clBlack
+    Font.Height = -13
+    Font.Name = 'Tahoma'
+    Font.Style = [fsBold]
+    ParentColor = False
+    ParentFont = False
+  end
+  object Label2: TLabel
+    Left = 224
+    Top = 144
+    Width = 89
+    Height = 33
+    Caption = 'Label2'
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWhite
+    Font.Height = -27
+    Font.Name = 'Tahoma'
+    Font.Style = [fsBold]
+    ParentFont = False
+  end
+  object ProgressBar1: TProgressBar
+    Left = 272
+    Top = 739
+    Width = 241
+    Height = 33
+    TabOrder = 0
+  end
+  object Timer1: TTimer
+    Interval = 50
+    OnTimer = Timer1Timer
+    Left = 392
+    Top = 408
   end
 end

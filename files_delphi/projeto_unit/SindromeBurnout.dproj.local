@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/02/28 09:50:46.000.784,=C:\Users\3os Anos\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2023/03/13 09:09:16.000.402,=C:\Users\3os Anos\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2023/03/13 09:30:41.000.917,=C:\Users\3os Anos\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2023/03/14 11:20:37.000.998,=C:\Users\3os Anos\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2023/03/14 11:25:13.000.884,=C:\Users\3os Anos\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2023/03/14 11:43:42.000.699,=C:\Users\3os Anos\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2023/03/22 09:01:19.000.516,=C:\Users\3os Anos\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2023/03/22 09:03:43.000.498,C:\353\lucasLessa gabrielRodrigues\1\U_principal.pas=C:\Users\3os Anos\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2023/03/22 09:03:43.000.498,C:\353\lucasLessa gabrielRodrigues\1\U_principal.dfm=C:\Users\3os Anos\Documents\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>2023/03/22 09:04:15.000.226,C:\353\lucasLessa gabrielRodrigues\1\P_doingSplash.dproj=C:\Users\3os Anos\Documents\Embarcadero\Studio\Projects\Project2.dproj</Transaction>
+    <Transaction>2023/03/22 09:05:41.000.782,=C:\353\lucasLessa gabrielRodrigues\1\Unit1.pas</Transaction>
+    <Transaction>2023/03/22 09:06:52.000.684,C:\353\lucasLessa gabrielRodrigues\1\U_page2.dfm=C:\353\lucasLessa gabrielRodrigues\1\Unit1.dfm</Transaction>
+    <Transaction>2023/03/22 09:06:52.000.684,C:\353\lucasLessa gabrielRodrigues\1\U_page2.pas=C:\353\lucasLessa gabrielRodrigues\1\Unit1.pas</Transaction>
+    <Transaction>2023/03/23 19:09:27.000.787,=E:\Git Lucas\Delphi10\teste de bornout\files_delphi\projeto_unit\Unit1.pas</Transaction>
+    <Transaction>2023/03/23 20:20:52.000.542,E:\Git Lucas\Delphi10\teste de bornout\files_delphi\projeto_unit\Unit1.dfm=E:\Git Lucas\Delphi10\teste de bornout\files_delphi\projeto_unit\U_menu.dfm</Transaction>
+    <Transaction>2023/03/23 20:20:52.000.542,E:\Git Lucas\Delphi10\teste de bornout\files_delphi\projeto_unit\Unit1.pas=E:\Git Lucas\Delphi10\teste de bornout\files_delphi\projeto_unit\U_menu.pas</Transaction>
+    <Transaction>2023/03/23 20:21:34.000.828,E:\Git Lucas\Delphi10\teste de bornout\files_delphi\projeto_unit\U_page2.pas=E:\Git Lucas\Delphi10\teste de bornout\files_delphi\projeto_unit\U_intro.pas</Transaction>
+    <Transaction>2023/03/23 20:21:34.000.828,E:\Git Lucas\Delphi10\teste de bornout\files_delphi\projeto_unit\U_page2.dfm=E:\Git Lucas\Delphi10\teste de bornout\files_delphi\projeto_unit\U_intro.dfm</Transaction>
+    <Transaction>2023/03/23 20:59:50.000.664,E:\Git Lucas\Delphi10\teste de bornout\files_delphi\projeto_unit\U_principal.dfm=E:\Git Lucas\Delphi10\teste de bornout\files_delphi\projeto_unit\U_tela_splash.dfm</Transaction>
+    <Transaction>2023/03/23 20:59:50.000.664,E:\Git Lucas\Delphi10\teste de bornout\files_delphi\projeto_unit\U_principal.pas=E:\Git Lucas\Delphi10\teste de bornout\files_delphi\projeto_unit\U_tela_splash.pas</Transaction>
+    <Transaction>2023/03/23 21:03:28.000.606,E:\Git Lucas\Delphi10\teste de bornout\files_delphi\projeto_unit\P_doingSplash.dproj=E:\Git Lucas\Delphi10\teste de bornout\files_delphi\projeto_unit\P_doingTesteBurnout.dproj</Transaction>
+    <Transaction>2023/03/28 15:35:35.000.282,=E:\Git Lucas\Delphi10\teste de bornout\files_delphi\projeto_unit\Unit1.pas</Transaction>
+    <Transaction>2023/03/28 15:36:09.000.485,E:\Git Lucas\Delphi10\teste de bornout\files_delphi\projeto_unit\Unit1.pas=E:\Git Lucas\Delphi10\teste de bornout\files_delphi\projeto_unit\DM.pas</Transaction>
+    <Transaction>2023/03/29 08:04:21.000.727,C:\353\lucasLessa gabrielRodrigues\teste de bornout\files_delphi\projeto_unit\DM.pas=</Transaction>
+    <Transaction>2023/03/29 08:05:42.000.293,=C:\353\lucasLessa gabrielRodrigues\teste de bornout\files_delphi\projeto_unit\DM.pas</Transaction>
+    <Transaction>2023/03/29 08:06:12.000.039,=C:\353\lucasLessa gabrielRodrigues\teste de bornout\files_delphi\projeto_unit\Unit1.pas</Transaction>
+    <Transaction>2023/03/29 08:08:05.000.540,C:\353\lucasLessa gabrielRodrigues\teste de bornout\files_delphi\projeto_unit\Unit1.pas=C:\353\lucasLessa gabrielRodrigues\teste de bornout\files_delphi\projeto_unit\datamodule.pas</Transaction>
+    <Transaction>2023/03/29 08:08:05.000.540,C:\353\lucasLessa gabrielRodrigues\teste de bornout\files_delphi\projeto_unit\Unit1.dfm=C:\353\lucasLessa gabrielRodrigues\teste de bornout\files_delphi\projeto_unit\datamodule.dfm</Transaction>
+    <Transaction>2023/03/29 08:09:39.000.948,C:\353\lucasLessa gabrielRodrigues\teste de bornout\files_delphi\projeto_unit\DM.pas=</Transaction>
+    <Transaction>2023/03/29 08:09:49.000.899,C:\353\lucasLessa gabrielRodrigues\teste de bornout\files_delphi\projeto_unit\datamodule.pas=C:\353\lucasLessa gabrielRodrigues\teste de bornout\files_delphi\projeto_unit\DM.pas</Transaction>
+    <Transaction>2023/03/29 08:09:49.000.899,C:\353\lucasLessa gabrielRodrigues\teste de bornout\files_delphi\projeto_unit\datamodule.dfm=C:\353\lucasLessa gabrielRodrigues\teste de bornout\files_delphi\projeto_unit\DM.dfm</Transaction>
+    <Transaction>2023/03/29 08:22:19.000.589,=C:\353\lucasLessa gabrielRodrigues\teste de bornout\files_delphi\projeto_unit\Unit1.pas</Transaction>
+    <Transaction>2023/03/29 08:26:19.000.520,C:\353\lucasLessa gabrielRodrigues\teste de bornout\files_delphi\projeto_unit\Unit1.dfm=C:\353\lucasLessa gabrielRodrigues\teste de bornout\files_delphi\projeto_unit\U_abertura.dfm</Transaction>
+    <Transaction>2023/03/29 08:26:19.000.520,C:\353\lucasLessa gabrielRodrigues\teste de bornout\files_delphi\projeto_unit\Unit1.pas=C:\353\lucasLessa gabrielRodrigues\teste de bornout\files_delphi\projeto_unit\U_abertura.pas</Transaction>
+    <Transaction>2023/03/29 08:50:21.000.660,=C:\353\lucasLessa gabrielRodrigues\teste de bornout\files_delphi\projeto_unit\Unit1.pas</Transaction>
+    <Transaction>2023/03/29 08:51:11.000.780,C:\353\lucasLessa gabrielRodrigues\teste de bornout\files_delphi\projeto_unit\Unit1.dfm=C:\353\lucasLessa gabrielRodrigues\teste de bornout\files_delphi\projeto_unit\U_func.dfm</Transaction>
+    <Transaction>2023/03/29 08:51:11.000.780,C:\353\lucasLessa gabrielRodrigues\teste de bornout\files_delphi\projeto_unit\Unit1.pas=C:\353\lucasLessa gabrielRodrigues\teste de bornout\files_delphi\projeto_unit\U_func.pas</Transaction>
+    <Transaction>2023/03/29 09:03:00.000.511,=C:\353\lucasLessa gabrielRodrigues\teste de bornout\files_delphi\projeto_unit\Unit1.pas</Transaction>
+    <Transaction>2023/03/29 09:03:56.000.756,C:\353\lucasLessa gabrielRodrigues\teste de bornout\files_delphi\projeto_unit\Unit1.dfm=C:\353\lucasLessa gabrielRodrigues\teste de bornout\files_delphi\projeto_unit\U_pagina1.dfm</Transaction>
+    <Transaction>2023/03/29 09:03:56.000.756,C:\353\lucasLessa gabrielRodrigues\teste de bornout\files_delphi\projeto_unit\Unit1.pas=C:\353\lucasLessa gabrielRodrigues\teste de bornout\files_delphi\projeto_unit\U_pagina1.pas</Transaction>
+    <Transaction>2023/03/29 09:19:28.000.252,=C:\353\lucasLessa gabrielRodrigues\teste de bornout\files_delphi\projeto_unit\Unit1.pas</Transaction>
+    <Transaction>2023/03/29 09:20:03.000.675,C:\353\lucasLessa gabrielRodrigues\teste de bornout\files_delphi\projeto_unit\Unit1.pas=C:\353\lucasLessa gabrielRodrigues\teste de bornout\files_delphi\projeto_unit\U_pagina2.pas</Transaction>
+    <Transaction>2023/03/29 09:20:03.000.675,C:\353\lucasLessa gabrielRodrigues\teste de bornout\files_delphi\projeto_unit\Unit1.dfm=C:\353\lucasLessa gabrielRodrigues\teste de bornout\files_delphi\projeto_unit\U_pagina2.dfm</Transaction>
+    <Transaction>2023/03/29 09:32:30.000.494,=C:\353\lucasLessa gabrielRodrigues\teste de bornout\files_delphi\projeto_unit\Unit1.pas</Transaction>
+    <Transaction>2023/03/29 09:33:59.000.183,C:\353\lucasLessa gabrielRodrigues\teste de bornout\files_delphi\projeto_unit\Unit1.dfm=C:\353\lucasLessa gabrielRodrigues\teste de bornout\files_delphi\projeto_unit\U_pagina3.dfm</Transaction>
+    <Transaction>2023/03/29 09:33:59.000.183,C:\353\lucasLessa gabrielRodrigues\teste de bornout\files_delphi\projeto_unit\Unit1.pas=C:\353\lucasLessa gabrielRodrigues\teste de bornout\files_delphi\projeto_unit\U_pagina3.pas</Transaction>
+    <Transaction>2023/03/29 09:38:56.000.117,=C:\353\lucasLessa gabrielRodrigues\teste de bornout\files_delphi\projeto_unit\Unit1.pas</Transaction>
+    <Transaction>2023/03/29 09:39:46.000.749,C:\353\lucasLessa gabrielRodrigues\teste de bornout\files_delphi\projeto_unit\Unit1.pas=C:\353\lucasLessa gabrielRodrigues\teste de bornout\files_delphi\projeto_unit\U_pagina4.pas</Transaction>
+    <Transaction>2023/03/29 09:39:46.000.749,C:\353\lucasLessa gabrielRodrigues\teste de bornout\files_delphi\projeto_unit\Unit1.dfm=C:\353\lucasLessa gabrielRodrigues\teste de bornout\files_delphi\projeto_unit\U_pagina4.dfm</Transaction>
+    <Transaction>2023/03/29 09:43:35.000.712,=C:\353\lucasLessa gabrielRodrigues\teste de bornout\files_delphi\projeto_unit\Unit1.pas</Transaction>
+    <Transaction>2023/03/29 09:44:16.000.709,C:\353\lucasLessa gabrielRodrigues\teste de bornout\files_delphi\projeto_unit\Unit1.pas=C:\353\lucasLessa gabrielRodrigues\teste de bornout\files_delphi\projeto_unit\U_resultado.pas</Transaction>
+    <Transaction>2023/03/29 09:44:16.000.709,C:\353\lucasLessa gabrielRodrigues\teste de bornout\files_delphi\projeto_unit\Unit1.dfm=C:\353\lucasLessa gabrielRodrigues\teste de bornout\files_delphi\projeto_unit\U_resultado.dfm</Transaction>
+    <Transaction>2023/04/02 20:30:56.000.045,=E:\Git Lucas\Delphi10\v2 teste de burnout\teste de bornout\files_delphi\projeto_unit\Unit1.pas</Transaction>
+    <Transaction>2023/04/02 20:32:12.000.975,E:\Git Lucas\Delphi10\v2 teste de burnout\teste de bornout\files_delphi\projeto_unit\U_fechamento.pas=E:\Git Lucas\Delphi10\v2 teste de burnout\teste de bornout\files_delphi\projeto_unit\Unit1.pas</Transaction>
+    <Transaction>2023/04/02 20:32:12.000.975,E:\Git Lucas\Delphi10\v2 teste de burnout\teste de bornout\files_delphi\projeto_unit\U_fechamento.dfm=E:\Git Lucas\Delphi10\v2 teste de burnout\teste de bornout\files_delphi\projeto_unit\Unit1.dfm</Transaction>
+    <Transaction>2023/04/03 11:41:47.000.704,E:\Git Lucas\Delphi10\v2 teste de burnout\teste de bornout\files_delphi\projeto_unit\U_fechamento.pas=</Transaction>
+    <Transaction>2023/04/03 16:08:56.000.295,E:\Git Lucas\Delphi10\teste de bornout\files_delphi\projeto_unit\P_doingTesteBurnout.dproj=E:\Git Lucas\Delphi10\teste de bornout\files_delphi\projeto_unit\SindromeBurnout.dproj</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="U_intro.pas"/>
+    <File Path="U_intro.dfm"/>
+    <File Path="U_menu.pas"/>
+    <File Path="U_menu.dfm"/>
+    <File Path="DM.pas"/>
+    <File Path="DM.dfm"/>
+    <File Path="U_abertura.pas"/>
+    <File Path="U_abertura.dfm"/>
+    <File Path="U_func.pas"/>
+    <File Path="U_func.dfm"/>
+    <File Path="U_pagina1.pas"/>
+    <File Path="U_pagina1.dfm"/>
+    <File Path="U_pagina2.pas"/>
+    <File Path="U_pagina2.dfm"/>
+    <File Path="U_pagina3.pas"/>
+    <File Path="U_pagina3.dfm"/>
+    <File Path="U_pagina4.pas"/>
+    <File Path="U_pagina4.dfm"/>
+    <File Path="U_resultado.pas"/>
+    <File Path="U_resultado.dfm"/>
+  </ProjectSortOrder>
+</BorlandProject>

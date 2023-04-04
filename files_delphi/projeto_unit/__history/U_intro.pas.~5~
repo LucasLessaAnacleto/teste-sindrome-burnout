@@ -1,0 +1,50 @@
+unit U_intro;
+
+interface
+
+uses
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.StdCtrls, Vcl.ExtCtrls,
+  Vcl.Imaging.pngimage, Vcl.ComCtrls;
+
+type
+  Tfrm_intro = class(TForm)
+    image1: TImage;
+    ProgressBar1: TProgressBar;
+    Label1: TLabel;
+    Timer1: TTimer;
+    procedure Timer1Timer(Sender: TObject);
+    procedure FormActivate(Sender: TObject);
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  frm_intro: Tfrm_intro;
+
+implementation
+
+{$R *.dfm}
+
+uses DM;
+
+
+procedure Tfrm_intro.FormActivate(Sender: TObject);
+begin
+ showmessage(nome);
+end;
+
+procedure Tfrm_intro.Timer1Timer(Sender: TObject);
+begin
+ progressbar1.Position:=  progressbar1.Position + 2;
+ label1.Caption:=inttostr(progressbar1.Position)+'%';
+ if progressbar1.Position = 100 then
+ begin
+   timer1.Enabled:=false;
+ end;
+
+end;
+
+end.
